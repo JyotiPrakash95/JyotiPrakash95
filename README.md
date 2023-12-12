@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyoti Prakash</h1>
 <h3 align="center">A passionate frontend Engineer from India</h3>
-<img aligh="right" alt="coding-img" width="300" src="[https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif]" >
+<img align="right" alt="coding-img" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiprakash95&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiprakash95" /> </p>
 
