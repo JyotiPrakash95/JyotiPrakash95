@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jyotiprakash0737@gmail.com**
 
-- 📄 Discover my professional journey: [https://drive.google.com/file/d/1w71OJdzTp4c-a1sD8SyJzmdnXTOzI89Y/view?usp=sharing](https://drive.google.com/file/d/1w71OJdzTp4c-a1sD8SyJzmdnXTOzI89Y/view?usp=sharing)
+- 📄 Discover my professional journey: [Resume](https://drive.google.com/file/d/1w71OJdzTp4c-a1sD8SyJzmdnXTOzI89Y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
