@@ -8,11 +8,11 @@
 
 - 🌱 Currently delving into **Redux Toolkit, Node, RestAPI, and NextJS.**
 
-- 👨‍💻 Explore my portfolio: [https://jyotiprakash95.github.io/github-portfolio/](https://jyotiprakash95.github.io/github-portfolio/)
+- 👨‍💻 Explore my portfolio: [https://jyoti-prakash-portfolio.vercel.app/](https://jyoti-prakash-portfolio.vercel.app/)
 
 - 📫 How to reach me **jyotiprakash0737@gmail.com**
 
-- 📄 Discover my professional journey: [https://drive.google.com/file/d/1w71OJdzTp4c-a1sD8SyJzmdnXTOzI89Y/view](https://drive.google.com/file/d/1w71OJdzTp4c-a1sD8SyJzmdnXTOzI89Y/view)
+- 📄 Discover my professional journey: [https://drive.google.com/file/d/1w71OJdzTp4c-a1sD8SyJzmdnXTOzI89Y/view?usp=sharing](https://drive.google.com/file/d/1w71OJdzTp4c-a1sD8SyJzmdnXTOzI89Y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
